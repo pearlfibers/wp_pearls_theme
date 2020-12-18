@@ -1,0 +1,1 @@
+# wp_pearls_theme
